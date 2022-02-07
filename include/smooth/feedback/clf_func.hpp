@@ -23,8 +23,8 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-#ifndef SMOOTH__FEEDBACK__ASIF_FUNC_HPP_
-#define SMOOTH__FEEDBACK__ASIF_FUNC_HPP_
+#ifndef SMOOTH__FEEDBACK__CLF_FUNC_HPP_
+#define SMOOTH__FEEDBACK__CLF_FUNC_HPP_
 
 /**
  * @file
@@ -295,4 +295,4 @@ QuadraticProgram<-1, -1, double> asif_to_qp(
 
 }  // namespace smooth::feedback
 
-#endif  // SMOOTH__FEEDBACK__ASIF_FUNC_HPP_
+#endif  // SMOOTH__FEEDBACK__CLF_FUNC_HPP_
